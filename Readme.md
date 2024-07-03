@@ -37,3 +37,8 @@ You could change the name, user and password of the database in the `env` file a
 I have recorded a Youtube session explaining the different parts of this project. You could see it here:
 
 [Boilerplate para Symfony basado en Docker, NGINX y PHP8](https://youtu.be/A82-hry3Zvw)
+
+```
+yarn add @symfony/webpack-encore --dev
+yarn encore dev --watch
+```
